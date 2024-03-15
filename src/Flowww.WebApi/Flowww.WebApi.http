@@ -1,0 +1,6 @@
+@Flowww.WebApi_HostAddress = http://localhost:5078
+
+GET {{Flowww.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
